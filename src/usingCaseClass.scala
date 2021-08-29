@@ -1,0 +1,3 @@
+object usingCaseClass extends App{
+
+}
