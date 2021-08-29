@@ -29,7 +29,7 @@ object usingCaseClass extends App{
 
     println( p1.move( 18 , 27 ) )
 
-    println( p6 distanceBetween p7 )
+    println( p1 distanceBetween p7 )
 
     println( p2.invert )
 
